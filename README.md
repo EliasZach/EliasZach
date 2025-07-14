@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**EliasZach/EliasZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Presentación animada -->
+<h1 align="center"><b>Bienvenido a mi perfil!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AD51F7&width=435&lines=Estudiante+autodidacta;Frontend+development;Aprendiendo+nuevas+cosas" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+<!--Sobre mí-->
+## 👨‍💻 Sobre mí
+- 🌱 Estoy aprendiendo a desarrollar **sitios web** de la mano del curso de programación de <a href="https://www.instagram.com/lexpinonline/">Lexpin</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 También soy autodidacta.
+
+- 💻 He aprendido tecnologías como **HTML, CSS, Javascript, SASS, Tailwind.**
+
+- 🔜 Actualmente estoy aprendiendo React
+
+- ⚙️ Uso herramientas como **Git, Github, Wordpress.**
+
+- 🔨 He realizado y sigo realizando proyectos para seguir aprendiendo.
+
+- 📫 Puedes contactarme a través de **prvatezachscr2.sgn@gmail.com.**
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías</b>
+<!-- Tecnologías-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,linux,python,tailwind,sass,wordpress&perline=14" />
+  </a>
+</p>
+
+
+<br>
+
+
+
